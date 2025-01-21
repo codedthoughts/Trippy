@@ -1,0 +1,13 @@
+Flask==2.1.2
+pandas==1.5.3
+numpy==1.24.0
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn==1.2.0
+
+# Deep Learning
+tensorflow
